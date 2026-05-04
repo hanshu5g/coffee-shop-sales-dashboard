@@ -1,2 +1,3 @@
 # coffee-shop-sales-dashboard
 An end-to-end Excel-based sales analytics dashboard for a coffee shop chain. Features raw transaction-level data, pivot table summaries, and a dynamic dashboard tracking KPIs such as revenue, product category performance, and hourly/monthly sales trends.
+Engineered a production-ready sales intelligence dashboard in Microsoft Excel, transforming 149,000+ unstructured coffee shop transactions into a multi-layered analytical framework — encompassing data normalization, pivot modeling, KPI architecture, and executive visualization — to drive precision decision-making across product, location, and time dimensions.
